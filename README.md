@@ -8,7 +8,7 @@
 - <b>Languages and Technologies used: </b> HTML, CSS, JS/Bootstrap & Firebase
 - <b>Author Name :</b> Anuj Jain, Prashant Singh Chauhan, Neha Singh, Pradumn Kumar & Vimal Vinayak
 
-- <b>Website link :</b>[Click here](LINK)
+- <b>Website link : </b>[Click here](https://neha3001-singh.github.io/confereX/)
 
 - <b>Login Details: </b> 
   - Username: user
